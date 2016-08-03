@@ -4,7 +4,11 @@
 
 int main(){
 
-printf("hello git");
 
-printf("Edited by Mahmoud");
+printf(%d "go to hell");
+
+
+
+
+//:3
 }
